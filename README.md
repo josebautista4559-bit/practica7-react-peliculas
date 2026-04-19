@@ -55,8 +55,8 @@ src/
 
 ## Instalación local
 
-npm install
-npm run dev
+"npm install"
+"npm run dev"
 
 ## Rutas
 / → Página principal con películas
