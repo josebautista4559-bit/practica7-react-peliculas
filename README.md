@@ -55,7 +55,6 @@ src/
 
 ## Instalación local
 
-```bash
 npm install
 npm run dev
 
