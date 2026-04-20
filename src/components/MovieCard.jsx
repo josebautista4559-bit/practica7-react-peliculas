@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { getMovieImg } from "src/utils/getMovieImg";
+import { getMovieImg } from "../utils/getMovieImg";
 import "./MovieCard.css";
 
 function MovieCard({ title, posterPath, movieId }) {

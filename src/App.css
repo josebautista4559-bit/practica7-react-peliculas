@@ -3,5 +3,32 @@
 
 .title {
     text-align: center;
-    font-size: 10rem;
+    font-size: 3rem;
+}
+body{
+  margin:0;
+  background:#121212;
+  color:white;
+  font-family:Arial;
+}
+
+@media(max-width:768px){
+  .title{
+    font-size:5rem;
+  }
+}
+
+@media(max-width:480px){
+  .title{
+    font-size:5rem;
+  }
+}
+
+.main-footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    border-top: 1px solid #444;
+    background: #1a1a1a; /* Un color oscuro para que contraste con el rosa */
+    color: white;
 }

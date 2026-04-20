@@ -1,4 +1,4 @@
-import MovieGrid from "src/components/MovieGrid";
+import MovieGrid from "../components/MovieGrid";
 
 function LandingPage() {
 return (

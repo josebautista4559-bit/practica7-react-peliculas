@@ -1,4 +1,4 @@
-import placeholder from "src/img/placeholder.png";
+import placeholder from "../img/placeholder.png";
 
 const VALID_SIZES = [92, 154, 185, 342, 500, 780, "original"];
 
