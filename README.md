@@ -74,8 +74,8 @@ Navegación SPA con React Router
 Diseño responsive
 
 ## Enlaces
-Repositorio GitHun:
-Proyecto en Netlify: 
+Repositorio GitHun: https://github.com/AlbertoBau-Tilin/practica7-react-peliculas.git
+Proyecto en Netlify: https://peliculasmonky.netlify.app/
 
 ## Evidencias
 ![alt text](image.png)
