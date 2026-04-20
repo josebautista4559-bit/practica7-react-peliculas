@@ -1,10 +1,8 @@
 import "./App.css";
 import AppRouter from "./routers/AppRouter";
-import { BrowserRouter } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
       <div>
         <header>
           <h1 className="title">🎬 Peliculas</h1>
@@ -26,7 +24,6 @@ function App() {
           <p>CUCEI - Universidad de Guadalajara</p>
         </footer>
       </div>
-    </BrowserRouter>
   );
 }
 
